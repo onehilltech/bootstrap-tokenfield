@@ -4,6 +4,7 @@
  * Adds focus() and blur() methods and events to dom elements
  */
 
+/*
 var FOCUS_ELEMENTS, HTML, elementType, setAttribute, setFocus, _i, _j, _len, _len1, _ref, _ref1;
 
 HTML = require("jsdom").dom.level3.html;
@@ -77,3 +78,4 @@ for (_j = 0, _len1 = _ref1.length; _j < _len1; _j++) {
     }
   };
 }
+*/
